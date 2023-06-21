@@ -20,8 +20,8 @@
 ##
 
 <div align="center"> 
-  <a href="https://app.slack.com/client/T0NNB6T0R/D03NZ29CMNU/rimeto_profile/U03N6BY577F" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius:50px;"></a>
-  <a href="mailto:juliana.rfernandes12@gmail.com"_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="border-radius:50px;"></a>
+  <a href="https://app.slack.com/client/T0NNB6T0R/D03NZ29CMNU/rimeto_profile/U03N6BY577F" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+  <a href="mailto:juliana.rfernandes12@gmail.com"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/juliana-dos-reis-fernandes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
  
-  
 </div>
